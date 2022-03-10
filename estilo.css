@@ -1,0 +1,25 @@
+
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav{
+    background-color: brown;
+    height: 130px;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+li{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
